@@ -17,7 +17,7 @@
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "moment": "^2.29.1",
-    "split2": "~3.1.1",
+    "split2": "~3.2.2",
     "strftime": "~0.10.0"
   },
   "devDependencies": {
